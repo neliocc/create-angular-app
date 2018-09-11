@@ -1,6 +1,14 @@
-# Codehid
+# Create Angular App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
+This is boilerplate code to start development of an Angular 6+ App it includes dependencies for
+
+- Angular Material
+- Bootstrap
+- Angular Service Worker
+
+## Installation
+
+Run `npm install` to install all the dependencies.
 
 ## Development server
 
